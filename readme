@@ -1,1 +1,2 @@
 Dynamic, multi-layers, multi-hidden-layers ANN with Backpropagation
+Training weights are stored in MS Access database.
